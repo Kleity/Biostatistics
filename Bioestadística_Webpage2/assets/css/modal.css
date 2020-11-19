@@ -1,0 +1,115 @@
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    color: #414DA7;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modals{
+    padding: 5.9rem;
+}
+.modal2{
+    padding-top: 7.9rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal3{
+    padding-top: 6.5rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal4{
+    padding-top: 7.5rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal5{
+    padding-top: 6.1rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal6{
+    padding-top: 6.1rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal7{
+    padding-top: 7.1rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal9{
+    padding-top: 7.1rem;
+    padding-bottom: 6rem;
+    padding-left: 5.3rem;
+    padding-right: 5.3rem;
+}
+.modal10{
+    padding-top: 7.1rem;
+    padding-bottom: 6rem;
+    padding-left: 5rem;
+    padding-right: 5.3rem;
+}
+.modal11{
+    padding-top: 7rem;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5.3rem;
+}
+
+
+
+#myBtn{
+    text-align: center;
+    font-style: calibri;
+    font-size: 16px;
+}
+
+#img{
+    padding-left: 24rem;
+}
+#gf{
+    padding-left: 18rem;
+}
+#img2{
+    padding-left: 19rem;
+}
+#imgn{
+    padding-left: 2.2rem;
+}
